@@ -1,4 +1,6 @@
-# Fruitle v2
+# Fruitle v2 (Wordle clone)
+Wordle but fruit
+
 ![Screenshot](docs/images/screenshot.png)
 ## 🔨 Installation:
 1. `git clone git@github.com:deanfernandes/fruitle-v2.git`
